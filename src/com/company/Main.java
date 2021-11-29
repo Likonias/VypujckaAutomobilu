@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("Happy colour that is not funni");
 
+        System.out.println("yay");
 
     }
 }
